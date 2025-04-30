@@ -54,7 +54,7 @@ A powerful and customizable AI chatbot for [Drawasaurus](https://www.drawasaurus
 2. **Install the Script**:
    - Click on the Tampermonkey icon in your browser
    - Select "Create a new script"
-   - Delete any default code and paste the entire script content (ensure you've included the API key inside the script)
+   - Delete any default code and paste the entire script content from main.js (ensure you've included the API key inside the script)
    - Press Ctrl+S or click on File > Save to save the script
 
 3. **Verify Installation**:
