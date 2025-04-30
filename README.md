@@ -7,12 +7,12 @@ A powerful and customizable AI chatbot for [Drawasaurus](https://www.drawasaurus
 
 ## 📋 Table of Contents
 
-- [Features](##features)
-- [Installation](##installation)
-- [Usage](##usage)
-- [Configuration](##configuration)
-- [Troubleshooting](##troubleshooting)
-- [License](##license)
+- [Features](#-features)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Configuration](#%EF%B8%8F-configuration)
+- [Troubleshooting](#-troubleshooting)
+- [License](#-license)
 
 ## ✨ Features
 
